@@ -1,0 +1,42 @@
+ /* Style inputs with type="text", select elements and textareas */
+ input[type=text], select, textarea {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style des Absendebuttons */
+  input[type=abschicken] {
+    background-color: #00e2e2;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 10%;
+  }
+  
+  /* Hover Absendebutton */
+  input[type=abschicken]:hover {
+    background-color: #CCC
+  }
+  
+  /* Hintergrund und Abstand des Formulars*/
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  } 
+
+#Datenschutz {
+
+    margin-left: 42%;
+}
