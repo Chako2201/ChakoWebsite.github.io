@@ -1,0 +1,48 @@
+Selekor {
+	
+    Deklaration (Attribut:Wert;)
+    
+    }
+
+body {margin:0;
+        
+        background-color: #CCC;
+    }
+    
+
+/* Datenschutztextformatierung */
+
+h1 {
+    
+   text-align: center;
+   margin-top: 1%;
+   margin-bottom: 4%;
+}
+
+
+h2 {
+    
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h3 {
+ 
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+p {
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+li {
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
